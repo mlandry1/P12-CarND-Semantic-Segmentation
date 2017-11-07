@@ -1,4 +1,4 @@
-# Semantic Segmentation
+# CarND - Semantic Segmentation
 ### Introduction
 In this project, the pixels of a road are labeled using a Fully Convolutional Network (FCN).
 
